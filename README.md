@@ -10,7 +10,7 @@ This repository contains Python scripts implementing SASSI, a framework for clas
 
 ├── BB_BC.py # Train a classifier to distinguish Style B vs. Style C
 
-└── ABC.py # Final model: classify masks into Styles A, B, or C
+└── ABC.py # Final structure: classify masks into Styles A, B, or C
 
 ## Features
 
