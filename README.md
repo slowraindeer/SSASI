@@ -26,7 +26,12 @@ This repository contains Python scripts implementing SASSI, a framework for clas
    pip install -r requirements.txt
 3. Using AA_AB.py, AA_AC.py, and BB_BC.py, please make the binary classifiers and get thresholds.
 4. Prepare your dataset folder with mixed-dataset.
-5. Using ABC.py, classify the three styles of segmenation masks, using three classifiers and thresholds.   
+5. Using ABC.py, classify the three styles of segmenation masks, using three classifiers and thresholds.
+
+
+## Datasets
+
+All datasets used in this paper are publicly available and can be freely downloaded.
 
 
 ## Contact
